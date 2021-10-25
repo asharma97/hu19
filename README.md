@@ -1,2 +1,5 @@
-# hu19
-yes
+install the git 
+clone the repo 
+password less authentication
+
+

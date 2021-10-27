@@ -23,4 +23,8 @@ git commit -m "security"
 git push origin git-assignment
 
 
+------------------- linux abd shell assign -------------------
+Linux link -  https://docs.google.com/document/d/1gXndf2WT4ppMq77b2RbvIQ0apO98AbNHCLxRbF9isDI/edit?usp=sharing
 
+
+shell link - https://docs.google.com/document/d/1SkQuJTZIHVkVTE3ru68FNwyw0v-63x5sIiaFaxCJ1_A/edit?usp=sharing
